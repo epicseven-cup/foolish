@@ -1,0 +1,7 @@
+class FoolishTamplte {
+    
+    
+    constructor(){
+        return;
+    }
+}

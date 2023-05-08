@@ -16,11 +16,12 @@ class Foolish {
     start(){
         // Starts the tcp socket listending
         // logs that the server has started
+
+        
     }
 
     addRoute(){
         // add route to router
         // dynmatic routing need to be careful on syntax
     }
-
 }

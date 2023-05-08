@@ -1,0 +1,4 @@
+class DomNode implaneted DomInterface {
+
+}
+
