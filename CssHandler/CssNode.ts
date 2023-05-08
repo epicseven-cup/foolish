@@ -1,0 +1,3 @@
+class CssNode implaneted CssInterface {
+
+}
