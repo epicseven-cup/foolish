@@ -1,3 +1,3 @@
 class FoolishRequest {
-    
+    constructor(){}
 }

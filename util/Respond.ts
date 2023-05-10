@@ -1,3 +1,3 @@
 class FoolishRespond {
-    
+    constructor() {}
 }
