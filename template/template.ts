@@ -1,6 +1,5 @@
 class FoolishTamplte {
     
-    
     constructor(){
         return;
     }

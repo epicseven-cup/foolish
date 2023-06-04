@@ -1,4 +1,4 @@
-class DomNode implaneted DomInterface {
+class DomNode implements DomInterface {
 
 }
 

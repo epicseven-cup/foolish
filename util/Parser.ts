@@ -4,7 +4,10 @@ const Parser = {
         FoolishRespond();
     )
     httpParser(httpRequest: Deno.Conn): FoolishRequest {
-        return;
+        header: Arary<string> = 
+        
+        
+        return;    
     }
 }
 
